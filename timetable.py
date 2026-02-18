@@ -38,9 +38,9 @@ TIMETABLE = {
     "Saturday": {
         "Period 1": {"start": time(9, 0), "subject": "Data Structures Lab"},
         "Period 2": {"start": time(10, 0), "subject": "DBMS Lab"},
-        "Period 3": {"start": time(11, 0), "subject": "Mini Project"},
-        "Period 4": {"start": time(12, 0), "subject": "Seminar"},
-    }
+        "Period 3": {"start": time(11, 0), "subject": "Computer Networks Lab"},
+        "Period 4": {"start": time(12, 0), "subject": "English"},
+    };
 }
 
 def get_current_period():
